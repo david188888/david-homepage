@@ -28,7 +28,7 @@ redirect_from:
           fetchpriority="high"
           onerror="this.onerror=null;this.src='{{ '/images/profile.png' | relative_url }}';"
         />
-        <p class="home-hero__eyebrow">Speech AI · SLM Trustworthiness · Agentic RL</p>
+        <p class="home-hero__eyebrow">Speech Language Model · SLM Trustworthiness · Agentic RL</p>
         <h1 class="home-hero__title">HongYu Liu</h1>
         <p class="home-hero__lead">
           I build trustworthy speech and language systems, with research spanning proactive interaction, privacy evaluation,
@@ -63,7 +63,7 @@ redirect_from:
         <article class="timeline-card reveal">
           <p class="timeline-card__time">Matriculation: Sep 2026</p>
           <h3>The Chinese University of Hong Kong, Shenzhen</h3>
-          <p class="timeline-card__meta">Master of Science in Data Science (Offer Received)</p>
+          <p class="timeline-card__meta">Master of Science in Data Science</p>
           <p>Enrollment scheduled for September 2026.</p>
         </article>
       </div>
